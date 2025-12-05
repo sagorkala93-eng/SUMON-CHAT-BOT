@@ -20,7 +20,7 @@ module.exports.config = {
 
 module.exports.run = async ({ api, event }) => {
  const links = [
- "https://i.imgur.com/WSCOFG8.jpeg",
+ "https://imgur.com/a/taUkBWG",
  "https://i.imgur.com/TBB9lQF.jpeg",
  "https://i.imgur.com/xAKK0v1.jpeg",
  "https://i.imgur.com/hVZc6pD.jpeg",
