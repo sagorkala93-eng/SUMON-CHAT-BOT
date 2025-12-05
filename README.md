@@ -7,7 +7,7 @@
 Assalamualaikum Everyone!  
 **Welcome to My SHAHADAT CHAT BOT Fork!**
 
-![Box-shaped Image](https://i.imgur.com/u7VnPzH.png)
+![Box-shaped Image](https://imgur.com/a/5GVdwFH.png)
 
 <p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <span style="font-size: 24px; font-weight: bold;">SHAHADAT CHAT BOT</span><br>
@@ -134,7 +134,7 @@ ___
   </div>
 
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" style="margin-right: 20px; flex-shrink: 0;" />
+    <img src="https://imgur.com/a/5GVdwFH.png" alt="GitHub" style="margin-right: 20px; flex-shrink: 0;" />
     <div>
       <h3 style="margin: 0 0 8px;">GitHub</h3>
       <p style="margin: 0;">
